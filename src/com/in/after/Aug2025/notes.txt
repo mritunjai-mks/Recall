@@ -1,0 +1,9 @@
+--------------------Spring Boot Interview Preparation Notes--------------------
+--How you handle exception in the Spring boot application. {ExceptionHandler and @ControllerAdvice}
+--Use of Actuator in the Spring boot application.
+--Use of Log in the Spring boot application.
+--How you have use cache in the Spring boot application.
+---------------------Core Java Interview Preparation Notes---------------------
+--Custom exception handling in the Spring boot application.
+--Singleton Design Pattern in Core Java.
+--------------------------------------------------------------------------------
